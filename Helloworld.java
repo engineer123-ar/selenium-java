@@ -22,7 +22,7 @@ public class Helloworld {
 //
 //        element = driver.findElement(By.id("form7Example1"));
 //        try {
-//            Thread.sleep(1000);
+//            Thread.sleep(2000);
 //        } catch (InterruptedException e) {
 //            throw new RuntimeException(e);
 //        }
