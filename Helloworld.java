@@ -54,7 +54,7 @@ public class Helloworld {
         System.out.println("element is found");
 
         try {
-            Thread.sleep(1000);
+            Thread.sleep(2000);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
